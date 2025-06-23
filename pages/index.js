@@ -8,7 +8,7 @@ export default function Home() {
       <h2>Features</h2>
       <ul>
         <li>Compare differences between two Google Sheets worksheets</li>
-        <li>Supports Key Based and Direct Column comparison modes</li>
+        <li>Supports some comparison modes</li>
         <li>Integrated licensing verification system to ensure authorized use</li>
         <li>Fast deployment and easy scalability</li>
       </ul>
